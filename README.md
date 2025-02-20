@@ -1,1 +1,1 @@
-# DEPI_-sales_forecasting_and_optimization
+# DEPI_sales_forecasting_and_optimization
