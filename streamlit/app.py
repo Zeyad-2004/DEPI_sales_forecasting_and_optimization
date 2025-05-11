@@ -7,6 +7,7 @@ import numpy as np
 # Set Streamlit page configurations
 st.set_page_config(page_title="Sales Forecasting", layout="centered")
 st.title("📈 Sales Forecasting with ARIMA (pmdarima)")
+st.subheader("Forecasting Starting from Date (2015 - 1 - 1)")
 
 # Load pre-trained model
 model = joblib.load("model.pkl")
